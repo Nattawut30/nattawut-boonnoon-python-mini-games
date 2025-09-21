@@ -1,5 +1,5 @@
 # Mini Games using Python by Nattawut Boonnoon
-*Update 2025: Repo_Error & LICENSE fixed*
+*Update 2025: fixed Repo_404_Error & LICENSE updated*
 
 
 # How to run
