@@ -17,5 +17,5 @@ Fire up your console and dive into these captivating mini-games! spinning reels,
 
 # Credits
 <p>Built by Nattawut Boonnoon<p/>
-<p>Created on January 30, 2025<p/>
+<p>Created on June 4, 2024 (Update Sept. 2025, Repos_404_Error Fixed)<p/>
 LinkedIn: www.linkedin.com/in/nattawut-bn
